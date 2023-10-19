@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-THE VRAI GAME-1.0";
 const contentToCache = [
     "Build/Downloads.loader.js",
-    "Build/Downloads.framework.js",
-    "Build/Downloads.data",
-    "Build/Downloads.wasm",
+    "Build/Downloads.framework.js.gz",
+    "Build/Downloads.data.gz",
+    "Build/Downloads.wasm.gz",
     "TemplateData/style.css"
 
 ];
